@@ -6,15 +6,20 @@ body {
 
 a {
     color: rgb(91, 250, 91);
+    display: inline-block;
+    padding-right: 100px;
+    text-decoration: none;
+    
 }
-#pages-links {
+
+/* #pages-links {
     list-style-type: none;
     padding: 0;
 }
 
 ul {
     list-style-type: "- ";
-}
+} */
 
 img {
     width: 500px;
